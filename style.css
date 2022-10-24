@@ -533,6 +533,25 @@ body{
 
 
 
+.glory{
+	text-align: center;
+	font-size: 100px;
+}
+
+.coll{
+	color: #0058B5;
+	text-align: center;
+	font-size: 100px;
+}
+
+.coll span{
+	color: #F6CE00;
+	text-align: center;
+	font-size: 100px;
+}
+
+
+
 @media (max-width: 1500px){
 	.galery-content{
 		display: block;
@@ -553,6 +572,7 @@ body{
 	.galery-left{
 		margin-right: 0;
 	}
+	
 
 }
 
@@ -742,6 +762,24 @@ body{
 	}
 
 
+		.glory{
+	text-align: center;
+	font-size: 50px;
+}
+
+	.coll{
+	color: #0058B5;
+	text-align: center;
+	font-size: 50px;
+}
+
+.coll span{
+	color: #F6CE00;
+	text-align: center;
+	font-size: 50px;
+}
+
+
 }
 
 
@@ -769,9 +807,26 @@ body{
 
 	}
 
+.glory{
+	text-align: center;
+	font-size: 25px;
 }
 
-@media (max-width: 380px){
+.coll{
+	color: #0058B5;
+	text-align: center;
+	font-size: 25px;
+}
+
+.coll span{
+	color: #F6CE00;
+	text-align: center;
+	font-size: 25px;
+}
+
+}
+
+@media (max-width: 390px){
 
 	.number-item{
 
@@ -787,6 +842,17 @@ body{
 		margin-bottom: 25px;
 	}
 
+
+	.left-title{
+		font-size: 32px;
+	}
+
+	.left-text{
+		font-size: 20px;
+	}
 	
 
 }
+
+
+
