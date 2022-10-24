@@ -824,6 +824,15 @@ body{
 	font-size: 25px;
 }
 
+.header-suptitle{
+		margin-bottom: 25px;
+	}
+
+	.number-item {
+    font-size: 30px;
+
+	}
+
 }
 
 @media (max-width: 390px){
